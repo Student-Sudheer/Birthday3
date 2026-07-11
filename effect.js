@@ -164,21 +164,7 @@ $('document').ready(function(){
 		});
 	});
 	
-	$('#story').click(function(){
-		$(this).fadeOut('slow');
-		
-		var i;
 
-			
-
-		});
-			// body...
-		}
-		
-	
-		
-	});
-});
 
 
 
